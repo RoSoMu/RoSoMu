@@ -1,16 +1,31 @@
-## Hi there 👋
+# Soraya Rodríguez | Linguistics · Cognitive Science · Data Analysis
 
-<!--
-**RoSoMu/RoSoMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into Data Analysis/Data Science, with a background in linguistics, cognitive science and adult language teaching.
 
-Here are some ideas to get you started:
+Here you'll find work at the intersection of language, cognition and data, combining experimental reasoning with statistical analysis and modelling. I'm particularly interested in developing this work towards NLP, language technology and EdTech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguistics + Cognitive Science → Data Analysis**
+
+### Interests
+
+Language data · NLP · language learning technology · behavioural/experimental data
+
+### Methods & tools
+
+Python · R · SQL · statistical modelling · data visualisation · machine learning
+
+## Featured project
+
+### [Counterfactual–Desiderative Processing in L2 English](https://github.com/RoSoMu/counterfactual-desiderative-processing)
+
+Reconstruction and extension of my Master’s psycholinguistic experiment, from rebuilding the original dataset and EDA through statistical modelling and theoretical interpretation.
+
+**Methods & tools:** Python · pandas · NumPy · statsmodels · Matplotlib · seaborn
+
+### Background
+
+Adult language teaching · L1 Spanish → L2 English transfer · Cognitive Science · Linguistics
+
+### Connect
+
+[LinkedIn](linkedin.com/in/soraya-rodríguez-a49b3412a) · [Email](rodriguez.soraya@gmail.com)
