@@ -14,6 +14,14 @@ Language data · NLP · language learning technology · behavioural/experimental
 
 Python · R · SQL · statistical modelling · data visualisation · machine learning
 
+### Training
+
+**DataCamp** — 100+ completed courses · 19 career/skill tracks  
+Extensive coursework across data analysis, statistics, machine learning and NLP using Python, R and SQL.
+
+**IBM Data Science Professional Certificate** — 200+ hours  
+End-to-end data science training from data collection and EDA through visualisation and machine learning. [View capstone project](https://github.com/RoSoMu/IBM_C10_CapstoneProject)
+
 ## Featured project
 
 ### [Counterfactual–Desiderative Processing in L2 English](https://github.com/RoSoMu/counterfactual-desiderative-processing)
