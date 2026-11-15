@@ -36,4 +36,5 @@ Adult language teaching · L1 Spanish → L2 English transfer · Cognitive Scien
 
 ### Connect
 
-[LinkedIn](linkedin.com/in/soraya-rodríguez-a49b3412a) · [Email](rodriguez.soraya@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/soraya-rodríguez-a49b3412a) · [Email](mailto:rodriguez.soraya@gmail.com)
+
